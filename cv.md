@@ -22,3 +22,5 @@ Tbilisi Technical University of Informatics
 2. Georgian - perfect
 3. English - advanced
 
+### About Myself
+I started studying at Rolling Scopes School, because i was always interested in programming and i want to become a  professional developer.
