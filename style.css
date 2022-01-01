@@ -5,10 +5,10 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    font-size: 18px;
-    font-weight: 400;
+    font-size: 20px;
+    font-weight: 500;
     line-height: 1.5;
-    color: #4d2323;
+    color: #535353;
 }
 
 .container{
@@ -33,6 +33,10 @@ body {
     transition: .3s;
   }
 
+  nav {
+    background-color: antiquewhite;
+  }
+
   .main-container {
     display: flex;
     flex-wrap: wrap;
@@ -53,7 +57,7 @@ body {
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #829985;
+    color: #39508f;
   }
 
   .link {
@@ -64,4 +68,9 @@ body {
   
   .link:hover {
     color: #5d7260;
+  }
+
+  .section-profile{
+    display: flex;
+    justify-content:space-around; 
   }
