@@ -8,7 +8,8 @@ body {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.5;
-    color: #535353;
+    color: #291818;
+    background-color: rgb(35, 150, 125);
 }
 
 .nav-list {
@@ -30,11 +31,11 @@ body {
   }
 
   .nav-link-item a:hover{
-    color:chocolate;
+    color:rgb(163, 168, 135);
   }
 
   nav {
-    background-color: antiquewhite;
+    background-color: rgb(163, 168, 135);
   }
 
 
@@ -67,7 +68,7 @@ body {
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #39508f;
+    color: rgb(163, 168, 135);
   }
 
   .link {
@@ -87,12 +88,19 @@ body {
     line-height: 120px;
     width: 100%;
     padding: 50px 30px 35px;
-    border-bottom: 15px solid #d7d1c9;
+    border-bottom: 15px solid rgb(163, 168, 135);
   }
 
   .photo {
     border-radius: 200px;
     box-shadow: lightpink;
+  }
+
+  hr {
+    border: none;
+    background-color:rgb(163, 168, 135);
+    color: rgb(163, 168, 135);
+    height: 10px;
   }
   
   
